@@ -10,7 +10,7 @@ const projectData = [
     category: "Web Devlepoment",
     title: "Echo Chat",
     description:
-      "I focus on crafting smooth, responsive interfaces that balance aesthetic appeal with practical functionality.",
+      "A real-time React and Firebase chat app featuring secure authentication and instant messaging. It leverages Firestore’s live listeners to deliver a seamless, low-latency social experience with modern UI components.",
     link: "https://github.com/Akshat-1407/EchoChat",
   },
   {
@@ -19,7 +19,7 @@ const projectData = [
     category: "Web Devlopment",
     title: "AirBnb Clone",
     description:
-      "Designed an intuitive dashboard for product management, emphasizing clarity and user efficiency.",
+      "A full-stack CRUD application built with EJS and Express, utilizing MongoDB as database. It handles everything from server-side rendering to RESTful routing, demonstrating a complete end-to-end web architecture.",
     link: "https://github.com/Akshat-1407/AirBnb",
   },
   {
@@ -28,7 +28,7 @@ const projectData = [
     category: "Web Development",
     title: "Video Player",
     description:
-      "Developed a modern admin panel with a focus on usability and seamless navigation for end users and so on.",
+      "A lightweight, media player built with vanilla CSS and JavaScript. This project showcases clean DOM manipulation and precise control over browser-native multimedia elements without external dependencies.",
     link: "https://github.com/Akshat-1407/Web-Development/tree/main/Projects/Project%20(VLC)",
   },
 ];

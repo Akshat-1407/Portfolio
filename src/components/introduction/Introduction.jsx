@@ -6,7 +6,7 @@ import { faDownload } from "@fortawesome/free-solid-svg-icons";
 const Introduction = () => {
   return (
     <div
-      className="flex max-lg:flex-col-reverse sm:justify-between pt-5 lg:pt-25 lg:pb-40 max-xl:gap-2 p-2 max-xxl:px-4"
+      className="flex max-lg:flex-col-reverse sm:justify-between pt-5 lg:pt-30 lg:pb-45 max-xl:gap-2 p-2 max-xxl:px-4"
       id="introduction"
     >
       <div className="w-full flex flex-col justify-between max-lg:text-center">
@@ -18,9 +18,9 @@ const Introduction = () => {
             </span>
           </p>
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
-            I'm a Freelance UI/UX Designer and Developer based in
-            London, England. I strives to build immersive and beautiful web
-            applications through carefully crafted code and user-centric design.
+            I'm a web developer specializing in the MERN stack to create functional, scalable websites. 
+            I'm passionate about clean code and modern design, and I'm currently open to connecting for 
+            freelance projects or professional networking.
           </p>
 
           <div className="mt-10 mb-10">
